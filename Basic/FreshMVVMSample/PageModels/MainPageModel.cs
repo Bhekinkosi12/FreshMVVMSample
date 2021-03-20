@@ -45,9 +45,7 @@ namespace FreshMVVMSample
                 });
             }
         }
-        #endregion
-
-        #region Properties
+        
         string _mainPageLabel = string.Empty;
         public string MainPageLabel
         {
